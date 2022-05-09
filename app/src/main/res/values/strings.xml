@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">quizTutorial</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">What type of risks can be decreased by using a Virtual Private Network (VPN)?</string>
+    <string name="question1_A">Phishing</string>
+    <string name="question1_B">Key-logging</string>
+    <string name="question1_C">De-anonymization</string>
+    <string name="question1_D">Insecure Wi-Fi networks</string>
+    <string name="answer_1">Insecure Wi-Fi networks</string>
+
+
+    <string name="question_2">What does the “https://” as opposed to "http://" mean?</string>
+    <string name="question_2A">Site has special high definition</string>
+    <string name="question_2B">Site is the newest version</string>
+    <string name="question_2C">Site is not accessible</string>
+    <string name="question_2D">Information entered is encrypted</string>
+    <string name="answer_2">Information entered is encrypted</string>
+
+
+    <string name="question_3"> How is the verification of a users identity done?</string>
+    <string name="question_3A">Identification</string>
+    <string name="question_3B">Validation</string>
+    <string name="question_3C">Verification</string>
+    <string name="question_3D">Authentication</string>
+    <string name="answer_3">Authentication</string>
+
+    <string name="question_4">What is the simplest way to protect a system?</string>
+    <string name="question_4A">Use multiple security softwares</string>
+    <string name="question_4B">Hire a ethical hacker</string>
+    <string name="question_4C">Monitor daily for suspicious activity</string>
+    <string name="question_4D">Update antivirus regularly</string>
+    <string name="answer_4">Update antivirus regularly</string>
+
+    <string name="question_5">What is the intend of a Denial of Service (DOS) attack?</string>
+    <string name="question_5A">Exploit a weakness in the TCP/IP</string>
+    <string name="question_5B">Overload the system</string>
+    <string name="question_5C">Shutdown services</string>
+    <string name="question_5D">Execute a Trojan</string>
+    <string name="answer_5">Overload the system</string>
+
+    <string name="question_6">How to limit the damage from Phishing?</string>
+    <string name="question_6A">Delete the email</string>
+    <string name="question_6B">Unplug the computer</string>
+    <string name="question_6C">Report to authority</string>
+    <string name="question_6D">Change passwords</string>
+    <string name="answer_6">Change passwords</string>
+
+    <string name="question_7">Why hackers use proxy servers?</string>
+    <string name="question_7A">Create good connection with the target</string>
+    <string name="question_7B">Create a ghost server</string>
+    <string name="question_7C">Obtain remote access</string>
+    <string name="question_7D">Hide malicious activity</string>
+    <string name="answer_7">Create good connection with the target</string>
+
+    <string name="question_8">"Criminals access and encrypt a user's data such that user is unable to access unless they pay to decrypt the data", this is called</string>
+    <string name="question_8A">Spam</string>
+    <string name="question_8B">Driving</string>
+    <string name="question_8C">Ransomware</string>
+    <string name="question_8D">Botnet</string>
+    <string name="answer_8">Ransomware</string>
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
